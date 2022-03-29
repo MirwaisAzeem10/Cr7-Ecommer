@@ -1,0 +1,31 @@
+.Header {
+  margin: auto;
+  height: 8rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 10px;
+  padding: 0 14px;
+}
+.paragraph {
+  font-size: 10px;
+  font-family: ‘Open Sans’;
+  font-weight: 500;
+  color: #2f3841;
+}
+
+.Heading {
+  font-size: 20px;
+  font-family: ‘Open Sans’;
+  font-weight: 700;
+  color: #2f3841;
+}
+
+.Action {
+  font-size: 14px;
+  font-family: ‘Open Sans’;
+  font-weight: 600;
+  color: #e44c4c;
+  cursor: pointer;
+  border-bottom: 1px solid #e44c4c;
+}
